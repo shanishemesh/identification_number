@@ -1,0 +1,21 @@
+{
+  "name": "identification_number",
+  "version": "1.1.6",
+  "description": "check the number: 1.game \"7 Boom\" 2. prime or not 3. even or odd.",
+  "main": "identification_number.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "number",
+    "7",
+    "boom",
+    "check",
+    "prime",
+    "even",
+    "odd",
+    "check"
+  ],
+  "author": "shani shemesh &  koral ifrach",
+  "license": "ISC"
+}
